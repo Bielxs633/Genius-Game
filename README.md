@@ -2,7 +2,6 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
-![image](https://github.com/user-attachments/assets/835dda92-cc64-462b-8099-d9baf3eab5ec)
 
 ## Sobre
 Este projeto é uma recriação do clássico **Genius Game**. O jogo desafia o jogador a memorizar e repetir uma sequência de cores que cresce progressivamente a cada rodada.
