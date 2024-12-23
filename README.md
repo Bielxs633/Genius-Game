@@ -27,6 +27,8 @@ Este projeto é uma recriação do clássico **Genius Game**. O jogo desafia o j
 
 ---
 
+### Licença / License
+
 MIT License
 
 Copyright (c)
