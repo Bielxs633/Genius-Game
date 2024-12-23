@@ -17,6 +17,6 @@ Este projeto é uma recriação do clássico **Genius Game**. O jogo desafia o j
 ---
 
 ## Tecnologias utilizadas
-- **HTML** - Estrutura da interface do jogo.
-- **CSS** - Estilização e efeitos visuais.
-- **JavaScript** - Lógica de funcionamento e interatividade.
+1. **HTML** - Estrutura da interface do jogo.
+2. **CSS** - Estilização e efeitos visuais.
+3. **JavaScript** - Lógica de funcionamento e interatividade.
