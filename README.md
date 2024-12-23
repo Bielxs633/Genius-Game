@@ -10,13 +10,13 @@ Este projeto é uma recriação do clássico **Genius Game**. O jogo desafia o j
 ---
 
 ## Funcionalidades
-- **Sequências Aleatórias**: O jogo gera uma sequência de cores crescente e imprevisível.
-- **Interatividade**: Clique nas cores para repetir a sequência exibida.
-- **Aumento de Dificuldade**: A sequência cresce progressivamente.
+1. **Sequências Aleatórias**: O jogo gera uma sequência de cores crescente e imprevisível.
+2. **Interatividade**: Clique nas cores para repetir a sequência exibida.
+3. **Aumento de Dificuldade**: A sequência cresce progressivamente.
 
 ---
 
 ## Tecnologias utilizadas
-1. **HTML** - Estrutura da interface do jogo.
-2. **CSS** - Estilização e efeitos visuais.
-3. **JavaScript** - Lógica de funcionamento e interatividade.
+- **HTML** - Estrutura da interface do jogo.
+- **CSS** - Estilização e efeitos visuais.
+- **JavaScript** - Lógica de funcionamento e interatividade.
